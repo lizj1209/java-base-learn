@@ -1,7 +1,6 @@
 package com.learn.design.pattern.proxy;
 
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 
 /**
  * 静态代理模式
