@@ -1,9 +1,9 @@
-package com.learn.design.pattern;
+package com.learn.design.pattern.creation.proxy;
 
-import com.learn.design.pattern.proxy.CglibObject;
-import com.learn.design.pattern.proxy.CglibProxy;
-import com.learn.design.pattern.proxy.JdkProxy;
-import com.learn.design.pattern.proxy.StaticProxy;
+import com.learn.design.pattern.creation.proxy.CglibObject;
+import com.learn.design.pattern.creation.proxy.CglibProxy;
+import com.learn.design.pattern.creation.proxy.JdkProxy;
+import com.learn.design.pattern.creation.proxy.StaticProxy;
 import org.junit.Test;
 
 /**

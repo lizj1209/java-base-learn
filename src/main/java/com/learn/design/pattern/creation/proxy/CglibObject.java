@@ -1,4 +1,4 @@
-package com.learn.design.pattern.proxy;
+package com.learn.design.pattern.creation.proxy;
 
 /**
  * 实现对象

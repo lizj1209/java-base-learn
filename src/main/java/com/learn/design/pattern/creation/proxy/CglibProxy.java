@@ -1,4 +1,4 @@
-package com.learn.design.pattern.proxy;
+package com.learn.design.pattern.creation.proxy;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
